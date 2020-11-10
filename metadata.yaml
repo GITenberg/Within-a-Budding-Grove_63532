@@ -1,0 +1,42 @@
+_repo: Within-a-Budding-Grove_63532
+_version: 0.0.1
+alternative_title: A l'ombre des jeunes filles en fleurs. English
+contributor:
+  translator:
+    agent_name: Scott-Moncrieff, C. K. (Charles Kenneth)
+    aliases:
+    - Moncrieff, Charles Kenneth Scott
+    - Scott-Moncrieff, Charles Kenneth
+    birthdate: 1889
+    deathdate: 1930
+    gutenberg_agent_id: '217'
+    url: http://www.gutenberg.org/2009/agents/217
+    wikipedia: https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marcel_Proust
+    - https://en.wikipedia.org/wiki/Marcel_Proust
+description: Volume 2 of Remembrance of Things Past
+gutenberg_issued: '2020-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63532'
+  lccn: '24015190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Bildungsromans'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Within a Budding Grove
+url: http://www.gutenberg.org/ebooks/63532
