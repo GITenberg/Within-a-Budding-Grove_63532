@@ -1,5 +1,5 @@
 _repo: Within-a-Budding-Grove_63532
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A l'ombre des jeunes filles en fleurs. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '217'
     url: http://www.gutenberg.org/2009/agents/217
     wikipedia: https://en.wikipedia.org/wiki/C._K._Scott_Moncrieff
+covers:
+- cover_type: archival
+  image_path: 63532-h/images/budding_cover.jpg
 creator:
   author:
     agent_name: Proust, Marcel
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Marcel_Proust
     - https://en.wikipedia.org/wiki/Marcel_Proust
 description: Volume 2 of Remembrance of Things Past
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63532#Within-a-Budding-Grove
 gutenberg_issued: '2020-10-23'
 gutenberg_type: Text
 identifiers:
